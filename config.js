@@ -12,8 +12,8 @@ import { ar, en, es, id, pt } from './lib/idiomas/total-idiomas.js'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
-global.owner = [
-'5214531287294', 
+global.owner = [69764299
+'521462891218', 
 '593968263524',
 '5492916450307',
 '5215539356057'
@@ -95,7 +95,7 @@ global.moment = moment
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
-global.official = [
+global.official = [69764299
 // Agregate si eres Owner
 ['593968263524', 'Gata Dios 💻', 1],
 ['573147616444', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
